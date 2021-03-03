@@ -1,0 +1,2 @@
+# Algorithms
+Euclid and Consecutive
